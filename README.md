@@ -16,7 +16,7 @@ A simple tribute page dedicated to the legendary singer KK (Krishnakumar Kunnath
 ### Project Files
 
 - **index.html**: Main HTML file with structured content.
-- **imgs/**: Contains `KK.jpeg` for display and `KK-favicon.jpg`.
+- **imgs/**: Contains `K.K.jpeg` for display and `KK-favicon.jpg`.
 - **music/**: Contains audio files (`Beete Lamhein.mp3/wav`, `Khuda Jaane.mp3`, `Abhi Abhi.mp3`).
 - **tribVid/**: Contains `KK.mp4`, a tribute video.
 
